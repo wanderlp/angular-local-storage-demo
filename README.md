@@ -15,5 +15,8 @@ Por ser HTML5 causa un poco de preocupación el uso de esta funcionalidad, sin e
 
 Aquí se puede ver la gráfica de compatibilidad: http://caniuse.com/#feat=namevalue-storage
 
+# Demostración on-line
+http://codepen.io/wanderlp/full/gpxWOa/
+
 # Referencia
 https://github.com/grevory/angular-local-storage
